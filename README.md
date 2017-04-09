@@ -34,7 +34,7 @@ Install the Greek language pack via composer is never easier.
 **Install Greek pack**:
 
 ```
-composer require mageplaza/magento-2-greek-language-pack:*
+composer require mageplaza/magento-2-greek-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy el-gr
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy el-gr
 **Update  Greek pack**:
 
 ```
-composer update mageplaza/magento-2-greek-language-pack:*
+composer update mageplaza/magento-2-greek-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy el-gr
 
