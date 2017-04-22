@@ -2726,6 +2726,7 @@ Payment,Πληρωμή,module,Magento_Checkout
 "Not yet calculated","Δεν έχει ακόμη υπολογιστεί",module,Magento_Checkout
 "We received your order!","Έχουμε λάβει την παραγγελία σας!",module,Magento_Checkout
 "Thank you for your purchase!","Σας ευχαριστούμε για την αγορά σας!",module,Magento_Checkout
+"Go to Checkout","Προχωρήστε στην Αγορά",module,Magento_Checkout
 "Terms and Conditions","Όροι και Προϋποθέσεις",module,Magento_CheckoutAgreements
 "Add New Condition","Προσθήκη Νέας Προϋπόθεσης",module,Magento_CheckoutAgreements
 "Save Condition","Αποθήκευση Κατάστασης",module,Magento_CheckoutAgreements
