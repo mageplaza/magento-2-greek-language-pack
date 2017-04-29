@@ -2727,6 +2727,9 @@ Payment,Πληρωμή,module,Magento_Checkout
 "We received your order!","Έχουμε λάβει την παραγγελία σας!",module,Magento_Checkout
 "Thank you for your purchase!","Σας ευχαριστούμε για την αγορά σας!",module,Magento_Checkout
 "Go to Checkout","Προχωρήστε στην Αγορά",module,Magento_Checkout
+"View and edit cart","Προβολή και επεξεργασία καλαθιού",module,Magento_Checkout
+"Item in Cart","Στοιχείο στο καλάθι",module,Magento_Checkout
+"Items in Cart","Στοιχεία στο καλάθι",module,Magento_Checkout
 "Terms and Conditions","Όροι και Προϋποθέσεις",module,Magento_CheckoutAgreements
 "Add New Condition","Προσθήκη Νέας Προϋπόθεσης",module,Magento_CheckoutAgreements
 "Save Condition","Αποθήκευση Κατάστασης",module,Magento_CheckoutAgreements
@@ -6306,6 +6309,7 @@ Partners,Συνεργάτες,module,Magento_Marketplace
 "Read More","Διάβασε περισσότερα",module,Magento_Marketplace
 "Partner Page","Σελίδα Συνεργάτη",module,Magento_Marketplace
 "No partners were found","Δεν βρέθηκαν συνεργάτες",module,Magento_Marketplace
+"Find Partners & Extensions","Βρείτε Συνεργάτες & Επεκτάσεις",module,Magento_Marketplace
 Synchronize,Συγχρονισμός,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Συγχρονισμός %1 σε %2",module,Magento_MediaStorage
 Synchronizing...,Συγχρονισμός...,module,Magento_MediaStorage
