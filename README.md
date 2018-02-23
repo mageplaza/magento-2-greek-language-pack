@@ -1,6 +1,6 @@
 ## Magento 2 Greek Language Pack
 
-Allowing Magento 2 store owner to replace the default language by Greek language through **Magento 2 Greek Language Pack** topic. From Magento 2 Translation Project at Crowdin, you will download a zip file and install it, that just takes less than few minutes to finish and launch your Magento 2 store in Greek. Please scrolling down to discover the best way for that.
+Allowing Magento 2 store owners to replace the default language by Greek language through **Magento 2 Greek Language Pack** topic. From Magento 2 Translation Project at Crowdin, you will download a zip file and install it, that just takes less than few minutes to finish and launch your Magento 2 store in Greek. Please scrolling down to discover the best way for that.
 
 Read more [Magento 2 Greek Language Pack](https://www.mageplaza.com/magento-2-greek-language-pack.html)
 
@@ -136,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/el
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -145,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/el
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
