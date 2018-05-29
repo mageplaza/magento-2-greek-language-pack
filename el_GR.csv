@@ -242,45 +242,42 @@ Edit,Επεξεργασία,module,Magento_AdvancedSearch
 "Sorry, there has been an error processing your request. Please try again later.","Λυπούμαστε, υπήρξε σφάλμα κατά την επεξεργασία του αιτήματός σας. Παρακαλούμε δοκιμάστε ξανά αργότερα.",module,Magento_Analytics
 "Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Λυπούμαστε, Παρουσιάστηκε ένα σφάλμα κατά την επεξεργασία την αίτησή σας καταχώρισης για Magento Analytics. Παρακαλούμε δοκιμάστε ξανά αργότερα.",module,Magento_Analytics
 "Error occurred during postponement notification","Παρουσιάστηκε σφάλμα κατά την αναβολή ειδοποίησης",module,Magento_Analytics
-"Time value has an unsupported format","Time value has an unsupported format",module,Magento_Analytics
-"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
+"Time value has an unsupported format","Η τιμή ώρας έχει μορφή που δεν υποστηρίζεται",module,Magento_Analytics
+"Cron settings can't be saved","Οι ρυθμίσεις Cron δεν μπορούν να αποθηκευτούν",module,Magento_Analytics
 "There was an error save new configuration value.","Παρουσιάστηκε ένα σφάλμα κατά την αποθήκευση νέας τιμής ρύθμισης παραμέτρων.",module,Magento_Analytics
 "Please select a vertical.","Παρακαλώ επιλέξτε μια κάθετο.",module,Magento_Analytics
 "--Please Select--","--Παρακαλώ Επιλέξτε--",module,Magento_Analytics
 "Command was not found.","Η εντολή δεν βρέθηκε.",module,Magento_Analytics
-"Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
-"Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
-"Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
-"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
-"Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
-"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>",module,Magento_Analytics
+"Input data must be string or convertible into string.","Τα δεδομένα εισόδου πρέπει να είναι string ή μετατρέψιμοι σε string.",module,Magento_Analytics
+"Input data must be non-empty string.","Τα δεδομένα εισόδου πρέπει να είναι μη κενό string.",module,Magento_Analytics
+"Not valid cipher method.","Η μέθοδος κρυπτογράφησης δεν είναι έγκυρη.",module,Magento_Analytics
+"Encryption key can't be empty.","Το κλειδί κρυπτογράφησης δεν μπορεί να είναι κενό.",module,Magento_Analytics
+"Source ""%1"" is not exist","Δεν υπάρχει πηγή «%1»",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Αυτά τα arguments δεν μπορεί να είναι άδεια»%1»",module,Magento_Analytics
+"Cannot find predefined integration user!","Δεν είναι δυνατό να βρείτε χρήστη προκαθορισμένες ολοκλήρωσης!",module,Magento_Analytics
+"File is not ready yet.","Το αρχείο δεν είναι έτοιμο ακόμα.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Το URL βάσης σας έχει αλλάξει και oi αναφορές σας ενημερώνονται. Οι προηγμένες αναφορές θα είναι διαθέσιμες, αφού ολοκληρωθεί αυτή η αλλαγή. Παρακαλούμε δοκιμάστε ξανά αργότερα.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Αποτυχία συγχρονισμού δεδομένων στην υπηρεσία Magento Business Intelligence service.",module,Magento_Analytics
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">επανάληψη προσπάθειας συγχρονισμού</a>",module,Magento_Analytics
 TestMessage,"Μήνυμα δοκιμής",module,Magento_Analytics
 "Error message","Μήνυμα σφάλματος",module,Magento_Analytics
 "Apps and Games","Εφαρμογές και Παιχνίδια",module,Magento_Analytics
 "Athletic/Sporting Goods","Αθλητικά/Σπορτ αγαθά",module,Magento_Analytics
 "Art and Design","Τέχνη και Σχεδιασμός",module,Magento_Analytics
-"Advanced Reporting","Advanced Reporting",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"View details","View details",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
+"Advanced Reporting","Προηγμένες αναφορές",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Απόκτησε νέες γνώσεις και να έλεγξε τις επιδόσεις της επιχείρησης σου, χρησιμοποιώντας τις δυναμικές αναφορές προϊόντος, παραγγελίας και πελατών προσαρμοσμένες στα δεδομένα των πελατών σου.",module,Magento_Analytics
+"View details","Προβολή λεπτομερειών",module,Magento_Analytics
+"Go to Advanced Reporting","Πήγαινε στις προηγμένες αναφορές",module,Magento_Analytics
 "An error occurred while subscription process.","Παρουσιάστηκε σφάλμα κατά την διαδικασία εγγραφής.",module,Magento_Analytics
 Analytics,Στατιστικά,module,Magento_Analytics
 API,API,module,Magento_Analytics
 Configuration,Ρυθμίσεις,module,Magento_Analytics
 "Business Intelligence","Business Intelligence",module,Magento_Analytics
-"BI Essentials","BI Essentials",module,Magento_Analytics
+"BI Essentials","Βασικά στοιχεία για το BI",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.",module,Magento_Analytics
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","Η υπηρεσία αυτή παρέχει μια δυναμική σουίτα με εκθέσεις με πλούσια στατιστικά στοιχεία για την επιχείρησή σας.                 Μπορείτε να έχετε πρόσβαση στις αναφορές σας με ασφάλεια σε ένα εξατομικευμένο ταμπλό έξω από το admin panel, κάνοντας κλικ στον σύνδεσμο «Πηγαίνετε στις προηγμένες αναφορές». </br> για περισσότερες πληροφορίες, ανατρέξτε στο θέμα μας στους</a><a href=""https://magento.com/legal/terms/privacy"">όρους και προϋποθέσεις.",module,Magento_Analytics
 "Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
 Industry,Industry,module,Magento_Analytics
 "Time of day to send data","Time of day to send data",module,Magento_Analytics
@@ -644,12 +641,12 @@ YTD,YTD,module,Magento_Backend
 Order,Παραγγελία,module,Magento_Backend
 "Order #%1","Παραγγελία #%1",module,Magento_Backend
 "You need more permissions to access this.","Χρειάζεστε περισσότερα δικαιώματα για να αποκτήσετε πρόσβαση σε αυτό.",module,Magento_Backend
-"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_Backend
-"Next steps","Next steps",module,Magento_Backend
-"If you think this is an error, try signing out and signing in again.","If you think this is an error, try signing out and signing in again.",module,Magento_Backend
-"Contact a system administrator or store owner to gain permissions.","Contact a system administrator or store owner to gain permissions.",module,Magento_Backend
-"Return to","Return to",module,Magento_Backend
-"previous page","previous page",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Λυπούμαστε, χρειάζεστε δικαιώματα για να δείτε το περιεχόμενο.",module,Magento_Backend
+"Next steps","Επόμενα βήματα",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Αν νομίζετε ότι αυτό είναι λάθος, δοκιμάστε να αποσυνδεθείτε και να συνδεθείτε ξανά.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Επικοινωνήστε με έναν διαχειριστή συστήματος ή με τον ιδιοκτήτη του καταστήματος για να αποκτήσετε δικαιώματα.",module,Magento_Backend
+"Return to","Επιστροφή στην",module,Magento_Backend
+"previous page","προηγούμενη σελίδα",module,Magento_Backend
 "Welcome, please sign in","Καλώς ήρθατε, παρακαλώ συνδεθείτε",module,Magento_Backend
 Username,"Όνομα Χρήστη",module,Magento_Backend
 "user name","όνομα χρήστη",module,Magento_Backend
@@ -1657,7 +1654,7 @@ Products,Προϊόντα,module,Magento_Catalog
 "You removed product %1 from the comparison list.","Αφαιρέσατε το προϊόν %1 από τη λίστα σύγκρισης.",module,Magento_Catalog
 "1 item","1 είδος",module,Magento_Catalog
 "%1 items","%1 είδη",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Είστε βέβαιοι ότι θέλετε να αφαιρέσετε αυτό το στοιχείο από τη Λίστα Σύγκρισης Προϊόντων;",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Είστε βέβαιοι ότι θέλετε να καταργήσετε όλα τα στοιχεία από τη Λίστα Σύγκρης Προϊόντων σας;",module,Magento_Catalog
 "Invalid attribute %1","Μη έγκυρο χαρακτηριστικό %1",module,Magento_Catalog
 Grid,Πλέγμα,module,Magento_Catalog
@@ -1787,7 +1784,7 @@ px.,px.,module,Magento_Catalog
 "Some of the selected item options are not currently available.","Μερικές από τις επιλογές του επιλεγμένου στοιχείου δεν είναι διαθέσιμες αυτή τη στιγμή.",module,Magento_Catalog
 "The text is too long.","Το κείμενο είναι πολύ μεγάλο.",module,Magento_Catalog
 "Invalid attribute %fieldName = %fieldValue.","Μη έγκυρο χαρακτηριστικό %fieldName = %fieldValue.",module,Magento_Catalog
-"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Το κατάστημα δεν βρέθηκε. Row ID: SKU = %SKU, Row ID: %storeId.",module,Magento_Catalog
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
 "Could not save Prices.","Αδύνατη η αποθήκευση Τιμών.",module,Magento_Catalog
 "Could not delete Prices","Αδυναμία διαγραφής Τιμών",module,Magento_Catalog
@@ -2205,8 +2202,8 @@ Enable,Ενεργοποίηση,module,Magento_Catalog
 Disable,Απενεργοποίηση,module,Magento_Catalog
 "Update attributes","Ενημέρωση Χαρακτηριστικών",module,Magento_Catalog
 Overview,Επισκόπηση,module,Magento_Catalog
-"Skip to the end of the images gallery","Skip to the end of the images gallery",module,Magento_Catalog
-"Skip to the beginning of the images gallery","Skip to the beginning of the images gallery",module,Magento_Catalog
+"Skip to the end of the images gallery","Μετάβαση στο τέλος της συλλογής εικόνων",module,Magento_Catalog
+"Skip to the beginning of the images gallery","Μετάβαση στην αρχή της συλλογής εικόνων",module,Magento_Catalog
 Details,Λεπτομέρειες,module,Magento_Catalog
 "Recently Compared","Πρόσφατα Συγκρίθηκαν",module,Magento_Catalog
 "Add To Cart","Προσθήκη Στο Καλάθι",module,Magento_Catalog
@@ -2756,7 +2753,7 @@ items,στοιχεία,module,Magento_Checkout
 Error!,Σφάλμα!,module,Magento_Checkout
 "DB exception","Εξαίρεση DB",module,Magento_Checkout
 Message,Μήνυμα,module,Magento_Checkout
-"Print receipt","Print receipt",module,Magento_Checkout
+"Print receipt","Εκτύπωση απόδειξης",module,Magento_Checkout
 "Apply Discount Code","Εφαρμόστε το κωδικό έκπτωσης",module,Magento_Checkout
 "Enter discount code","Πληκτρολογείστε τον κωδικό έκπτωσης",module,Magento_Checkout
 "Apply Discount","Εφαρμόστε την έκπτωση",module,Magento_Checkout
@@ -8308,6 +8305,7 @@ Action,Ενέργεια,module,Magento_Reports
 Report,Αναφορά,module,Magento_Reports
 Description,Περιγραφή,module,Magento_Reports
 undefined,απροσδιόριστο,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Αποθήκευση Αξιολόγησης",module,Magento_Review
 "New Review","Νεά Αξιολόγηση",module,Magento_Review
 "Review Details","Λεπτομέρειες Αξιολόγησης",module,Magento_Review
