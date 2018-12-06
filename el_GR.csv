@@ -351,7 +351,7 @@
 "Order saving error: %1","Σφάλμα αποθήκευσης παραγγελίας: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Παρακαλώ επιλέξτε μια μέθοδο πληρωμής.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Δεν μπορούμε να επεξεργαστούμε την παραγγελία σας αυτή τη στιγμή. Παρακαλώ προσπαθήστε ξανά αργότερα.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","Ένα σφάλμα του διακομιστή διέκοψε την τοποθέτηση της παραγγελία σας. Παρακαλώ δοκιμάστε να τοποθετήσετε την παραγγελία σας και πάλι.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Πιστωτική κάρτα: xxxx-%1",module,Magento_Authorizenet
 "amount %1","ποσό %1",module,Magento_Authorizenet
 "failed.","απέτυχε.",module,Magento_Authorizenet
@@ -379,7 +379,7 @@
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Η συναλλαγή %1 έχει ακυρώθεί. Κατάσταση συναλλαγής είναι ""%2"". Ποσό %3.",module,Magento_Authorizenet
 "Authorize Only","Εξουσιοδότηση Μόνο",module,Magento_Authorizenet
 "Authorize and Capture","Εξουσιοδότηση και Δέσμευση",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","Τα στοιχεία της συναλλαγής δεν είναι διαθέσιμα. Παρακαλώ δοκιμάστε ξανά αργότερα.",module,Magento_Authorizenet
 "Electronic payments save the trees.","Ηλεκτρονικές πληρωμές σώστε τα δέντρα.",module,Magento_Authorizenet
 "Credit Card Type","Είδος Πιστωτικής Κάρτας",module,Magento_Authorizenet
 "Please Select","Παρακαλώ Επιλέξτε",module,Magento_Authorizenet
@@ -560,13 +560,13 @@
 "Invalid export type supplied for grid export block","Μη έγκυρος τύπος εξαγωγής για το μπλοκ πλέγματος εξαγωγής",module,Magento_Backend
 "Export","Εξαγωγή",module,Magento_Backend
 "Please correct the column format and try again.","Παρακαλώ διορθώστε τη μορφή της στήλης, και προσπαθήστε ξανά.",module,Magento_Backend
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Backend
+"An item needs to be selected. Select and try again.","Ένα στοιχείο πρέπει να επιλεγεί. Επιλέξτε και δοκιμάστε ξανά.",module,Magento_Backend
 "Submit","Υποβολή",module,Magento_Backend
 "Unknown block type","Άγνωστος τύπος block",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","Παρακαλώ διορθώστε τη ρύθμιση παραμέτρων της καρτέλας και προσπαθήστε ξανά. Το ID Καρτέλας δεν πρέπει να είναι κενό",module,Magento_Backend
 "Please correct the tab configuration and try again.","Παρακαλώ διορθώστε τη ρύθμιση παραμέτρων της καρτέλας και προσπαθήστε ξανά.",module,Magento_Backend
 "You have logged out.","Έχετε αποσυνδεθεί.",module,Magento_Backend
-"These cache type(s) don't exist: %1","These cache type(s) don't exist: %1",module,Magento_Backend
+"These cache type(s) don't exist: %1","Αυτος(οί) ο(οι) τύπος(οι) προσωρινής μνήμης cache δεν υπάρχει(ουν): %1",module,Magento_Backend
 "The image cache was cleaned.","Καθαρίστηκε η προσωρινή μνήμη των εικόνων.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Παρουσιάστηκε σφάλμα κατά την εκκαθάριση της προσωρινής μνήμης των εικόνων.",module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","Η μνήμη cache JavaScript/CSS έχει καθαριστεί.",module,Magento_Backend
@@ -642,8 +642,8 @@
 "Order","Παραγγελία",module,Magento_Backend
 "Order #%1","Παραγγελία #%1",module,Magento_Backend
 "Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
-"Save &amp; Close","Save &amp; Close",module,Magento_Backend
-"Save &amp; New","Save &amp; New",module,Magento_Backend
+"Save &amp; Close","Αποθήκευση &amp; Κλείσιμο",module,Magento_Backend
+"Save &amp; New","Αποθήκευση &amp; Νέο",module,Magento_Backend
 "Edit","Επεξεργασία",module,Magento_Backend
 "Sorry, you need permissions to view this content.","Λυπούμαστε, χρειάζεστε δικαιώματα για να δείτε το περιεχόμενο.",module,Magento_Backend
 "Next steps","Επόμενα βήματα",module,Magento_Backend
@@ -772,7 +772,7 @@
 "Debug","Αποσφαλμάτωση",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Ενεργοποιημένες Υποδείξεις Διαδρομής Πρότυπου για Βιτρίνα Καταστήματος",module,Magento_Backend
 "Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Parameter Value","Τιμή Παραμέτρου",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Ενεργοποιημένες Υποδείξεις Διαδρομής Πρότυπου για Διαχείριση",module,Magento_Backend
 "Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
 "Template Settings","Παραμέτροι Προτύπου",module,Magento_Backend
