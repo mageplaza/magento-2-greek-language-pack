@@ -89,8 +89,11 @@ Unzip the Greek language pack to Magento 2 root folder. In this guide, we extrac
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/el_gr
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-greek-language-pack` to `el_gr`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Greek pack manually, you have to access to your server v
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `el_GR.zip` into `app/i18n/mageplaza/el_GR/el_GR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/el_gr/el_GR.csv`
+
+See this screenshot
+
+![Greek pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
