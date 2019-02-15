@@ -1,11 +1,11 @@
 All,Όλα,module,Magento_AdminGws
 None,Κανένα,module,Magento_AdminGws
 "Allowed Scopes","Επιτρεπόμενο εύρος",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Περισσότερα δικαιώματα είναι απαραίτητα για να διαγράψετε το στοιχείο «%1».",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Χρειάζεστε περισσότερα δικαιώματα να εφαρμόσει κάποιες από τις ενημερωμένες εκδόσεις του κανόνα.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Η οντότητα αυτή πρέπει να αντιστοιχιστεί σε μια προβολή του καταστήματος. Επαληθεύστε την αντιστοίχιση οντότητας και προσπαθήστε ξανά.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Οι παραγγελίες μπορούν να ολοκληρωθούν μόνο σε ένα ενεργό κατάστημα. Επαληθεύστε το κατάστημα και προσπαθήστε ξανά.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Αυτό το στοιχείο πρέπει να αντιστοιχιστεί σε μια προβολή του καταστήματος. Αντιστοιχίστε το στοιχείο και προσπαθήστε ξανά.",module,Magento_AdminGws
 "More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
 "More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
 "More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
