@@ -117,11 +117,13 @@ To download and install Greek pack manually, you have to access to your server v
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/el_gr/el_GR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/el_gr/`
 
-See this screenshot
+See this screenshot:
 
 ![Greek pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **el_gr**
 
 #### Step 2: Flush cache
 
