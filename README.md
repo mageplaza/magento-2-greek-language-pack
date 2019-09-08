@@ -4,7 +4,7 @@ Allowing Magento 2 store owners to replace the default language by Greek languag
 
 Read more [Magento 2 Greek Language Pack](https://www.mageplaza.com/magento-2-greek-language-pack.html)
 
-![Mageplaza Greek language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Greek language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
