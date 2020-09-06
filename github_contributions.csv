@@ -22,3 +22,6 @@
 "Show VAT Number on Storefront","Εμφάνιση ΑΦΜ στην Βιτρίνα Καταστήματος",module,Magento_Customer
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Για να εμφανίσετε τον ΑΦΜ στη Βιτρίνα Καταστήματος, ορίστε την επιλογή Προβολής ΑΦΜ στη Βιτρίνα Καταστήματος σε Ναι.",module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Απενεργοποιήσετε την αυτόματη αλλαγή ομάδας βάσει ΑΦΜ",module,Magento_Customer
+"Contact Us","Επικοινωνήστε μαζί μας",module,Magento_Contact
+"Contact Us","Επικοινωνήστε μαζί μας",module,Magento_NegotiableQuote
+"Contact Us","Επικοινωνήστε μαζί μας",module,Magento_RequisitionList
