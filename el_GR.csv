@@ -9600,7 +9600,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
 "'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
 "The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Ο κωδικός κουπονιού δεν είναι έγκυρος. Επαληθεύστε τον κωδικό και δοκιμάστε ξανά.",module,Magento_Quote
 "The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
@@ -10126,7 +10126,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product %1 has been added to the requisition list %2.","Το προϊόν %1 έχει προστεθεί στη λίστα απαιτήσεων %2.",module,Magento_RequisitionList
 "Options were updated. Please review available configurations.","Οι επιλογές ενημερώθηκαν. Ανατρέξτε στις διαθέσιμες διαμορφώσεις.",module,Magento_RequisitionList
 "The SKU is out of stock.","Το SKU είναι εκτός αποθέματος.",module,Magento_RequisitionList
-"The requested qty is not available","The requested qty is not available",module,Magento_RequisitionList
+"The requested qty is not available","Η απαιτούμενη ποσότητα δεν είναι διαθέσιμη.",module,Magento_RequisitionList
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Δεν ήταν δυνατή η αποθήκευση της Λίστας Απαιτήσεων. Ξεπεράστηκε ο μέγιστος αριθμός λιστών απαιτήσεων.",module,Magento_RequisitionList
 "Could not save requisition list. Invalid data provided","Could not save requisition list. Invalid data provided",module,Magento_RequisitionList
 "Exception","Εξαίρεση",module,Magento_RequisitionList
@@ -11978,7 +11978,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rule processing: %1","Rule processing: %1",module,Magento_SalesRule
 "Item totals are not set for the rule.","Τα σύνολα στοιχείων δεν έχουν οριστεί για τον κανόνα.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Κανόνες Τιμών Καλαθιού με βάση το χαρακτηριστικό ""%2"" έχουν απενεργοποιηθεί.",module,Magento_SalesRule
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_SalesRule
+"The coupon code isn't valid. Verify the code and try again.","Ο κωδικός κουπονιού δεν είναι έγκυρος. Επαληθεύστε τον κωδικό και δοκιμάστε ξανά.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 κουπόνι(α) έχει δημιουργηθεί.",module,Magento_SalesRule
 "Apply Discount Code","Εφαρμόστε το κωδικό έκπτωσης",module,Magento_SalesRule
 "Enter discount code","Πληκτρολογείστε τον κωδικό έκπτωσης",module,Magento_SalesRule
