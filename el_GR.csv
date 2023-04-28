@@ -2555,6 +2555,8 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "File '%1' was not found or has read restriction.","Το αρχείο '%1' δεν βρέθηκε ή έχει περιορισμό ανάγνωσης.",module,Magento_CatalogImportExport
 "Invalid Stock data for insert","Invalid Stock data for insert",module,Magento_CatalogImportExport
 "ALL GROUPS","ΟΛΕΣ ΟΙ ΟΜΑΔΕΣ",module,Magento_CatalogInventory
+"You cannot use decimal quantity for this product.","Вы не можете использовать десятичное число для этого продукта.",module,Magento_CatalogInventory
+"The requested qty exceeds the maximum qty allowed in shopping cart","Запрошенное количество превышает максимально допустимое количество в корзине.",module,Magento_CatalogInventory
 "Customer Group","Ομάδα Πελατών",module,Magento_CatalogInventory
 "Minimum Qty","Ελάχιστη Ποσ.",module,Magento_CatalogInventory
 "Add Minimum Qty","Προσθέστε Ελάχιστη Ποσ.",module,Magento_CatalogInventory
@@ -7454,6 +7456,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Accepted and Purchased","Αποδεκτά και Αγορασμένα",module,Magento_Invitation
 "Conversion Rate","Ισοτιμία",module,Magento_Invitation
 "Invitation","Πρόσκληση",module,Magento_Invitation
+"You cannot use decimal quantity for this product.","Вы не можете использовать десятичное число для этого продукта.",module,Magento_InventorySales
+"The requested qty exceeds the maximum qty allowed in shopping cart","Запрошенное количество превышает максимально допустимое количество в корзине.",module,Magento_InventorySales
 "No","Όχι",module,Magento_LayeredNavigation
 "Filterable (with results)","Φιλτράρισμα (με αποτελέσματα)",module,Magento_LayeredNavigation
 "Filterable (no results)","Φιλτράρισμα (χωρίς αποτελέσματα)",module,Magento_LayeredNavigation
